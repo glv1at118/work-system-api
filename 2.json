@@ -3,7 +3,7 @@
     "companyName": "HTTP Company", 
     "email": "rcharrett2@httpboost.com", 
     "id": 2, 
-    "image": "http://dummyimage.com/250x250.jpg/004444/ffffff", 
+    "image": "https://raw.githubusercontent.com/glv1at118/work-system-api/master/2.png", 
     "name": "Randal Charrett"
   }
 }
