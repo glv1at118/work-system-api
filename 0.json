@@ -1,0 +1,9 @@
+{
+  "worker": {
+    "companyName": "React Company Zero", 
+    "email": "fstorie0@reactzero.com", 
+    "id": 0, 
+    "image": "http://dummyimage.com/250x250.jpg/ccccff/000000", 
+    "name": "Frans Storie"
+  }
+}
